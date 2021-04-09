@@ -1,0 +1,21 @@
+.img{
+    height: 400x;
+    width: 350px;
+    border-radius: 20%;
+    border-style: ridge;
+}
+.address{
+    background-color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 60px;
+}
+.name{
+    font-size:xx-large;
+    color:whitesmoke;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+}
